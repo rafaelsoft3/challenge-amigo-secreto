@@ -14,13 +14,13 @@ Primero escribe el nombre de tu amigo que deceas agregar. Ejemplo: Rafael.
 Preciona el boton "añadir" para que se pueda guardar ese nombre.                      
 ![alt text](./assets/2.JPG)
 
-Luego veremos que se guardo con exito, cuando muestra el nombre de tu amigo.
+Luego veremos que se guardo con exito, cuando muestra el nombre de tu amigo.       
 ![alt text](./assets/3.JPG)
 
-Cuando allas agregado una, dos, tres o mas amigos .Presiona el boton de sortear amigo.
+Cuando allas agregado una, dos, tres o mas amigos .Presiona el boton de sortear amigo.                                                                             
 ![alt text](./assets/4.JPG)
 
-nos mostrara el amigo que salio sorteado .en este caso Andres.
+Nos mostrara el amigo que salio sorteado .en este caso Andres.
 ![alt text](./assets/5.JPG)                                          
 
 >[!warning]
