@@ -10,7 +10,7 @@ function agregarAmigo(){
     let amigacho =document.getElementById('amigo').value;
 //Actualizar el array de amigos: Si el valor es válido, añadirlo al arreglo que almacena los nombre de amigos usando el método.push().
     amigos.push(amigacho);
-    amigacho=document.querySelector('ul');
+    // amigacho=document.querySelector('ul');
 
     
       
@@ -24,7 +24,8 @@ function agregarAmigo(){
         
 
 //Limpiar el campo de entrada: Después de añadir el nombre, restablecer el campo de texto a una cadena vacía.
-        amigacho.innerHTML='';
+        document.getElementById('amigo').value = '';
+        // amigacho.innerHTML='';
         actualizarLista();
 
 
@@ -32,8 +33,8 @@ function agregarAmigo(){
     console.log(amigos);
 
     
-//Limpiar input agregar amigo
-    document.getElementById('amigo').value = '';
+
+    
 }
 
 

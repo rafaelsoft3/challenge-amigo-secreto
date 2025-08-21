@@ -20,16 +20,16 @@ Luego veremos que se guardo con exito, cuando muestra el nombre de tu amigo.
 Cuando allas agregado una, dos, tres o mas amigos .Presiona el boton de sortear amigo.                                                                             
 ![alt text](./assets/4.JPG)
 
-Nos mostrara el amigo que salio sorteado .en este caso Andres.
+Nos mostrara el amigo que salio sorteado .En este caso Andres.
 ![alt text](./assets/5.JPG)                                          
 
 >[!warning]
->Esta aplicacion detecta si dejaste el campo vacio de amigo. Es decir te da un alerte si no pusite nada al apretar el boton de añdir para que no suba campos vacios.
+>La aplicación detecta si el campo está vacío y muestra una alerta al presionar el botón 'Añadir', evitando que se guarden campos sin contenido.
 ![alt text](./assets/6.JPG)
 ![alt text](./assets/7.JPG)
 
 
 >[!warning]
->Esta aplicacion te advierte si no agregaste amigos para hacer el sorteo precionando el boton "sortear amigo"                                                    
+>La aplicación te avisará si intentas realizar el sorteo sin haber agregado amigos previamente al presionar el botón 'Sortear amigo'.                                                   
 ![alt text](./assets/8.JPG)
 ![alt text](./assets/9.JPG)
